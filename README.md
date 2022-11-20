@@ -1,1 +1,1 @@
-# blog-resources
+基于PicGo+GitHub的图床。
